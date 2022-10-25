@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/kitan/Projects/solo/web3/gif-portal/gif-portal/target/debug/build/typenum-b2006391cb8436f4/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/kitan/Projects/solo/web3/gif-portal/gif-portal/target/debug/build/typenum-b2006391cb8436f4/out/op.rs

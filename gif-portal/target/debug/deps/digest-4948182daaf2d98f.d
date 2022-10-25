@@ -1,0 +1,12 @@
+/home/kitan/Projects/solo/web3/gif-portal/gif-portal/target/debug/deps/digest-4948182daaf2d98f.rmeta: /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/lib.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/ct_variable.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/rt_variable.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/wrapper.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/xof_reader.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/digest.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/mac.rs
+
+/home/kitan/Projects/solo/web3/gif-portal/gif-portal/target/debug/deps/digest-4948182daaf2d98f.d: /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/lib.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/ct_variable.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/rt_variable.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/wrapper.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/xof_reader.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/digest.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/mac.rs
+
+/home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/lib.rs:
+/home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api.rs:
+/home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/ct_variable.rs:
+/home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/rt_variable.rs:
+/home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/wrapper.rs:
+/home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/xof_reader.rs:
+/home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/digest.rs:
+/home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/mac.rs:

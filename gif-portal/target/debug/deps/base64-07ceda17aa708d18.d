@@ -1,0 +1,14 @@
+/home/kitan/Projects/solo/web3/gif-portal/gif-portal/target/debug/deps/base64-07ceda17aa708d18.rmeta: /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/lib.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/chunked_encoder.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/display.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/mod.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/decoder.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/tables.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/mod.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/encoder.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/encode.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/decode.rs
+
+/home/kitan/Projects/solo/web3/gif-portal/gif-portal/target/debug/deps/base64-07ceda17aa708d18.d: /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/lib.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/chunked_encoder.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/display.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/mod.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/decoder.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/tables.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/mod.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/encoder.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/encode.rs /home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/decode.rs
+
+/home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/lib.rs:
+/home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/chunked_encoder.rs:
+/home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/display.rs:
+/home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/mod.rs:
+/home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/decoder.rs:
+/home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/tables.rs:
+/home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/mod.rs:
+/home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/encoder.rs:
+/home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/encode.rs:
+/home/kitan/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/decode.rs:
