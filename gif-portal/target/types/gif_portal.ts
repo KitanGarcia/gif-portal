@@ -30,9 +30,19 @@ export type GifPortal = {
           "name": "baseAccount",
           "isMut": true,
           "isSigner": false
+        },
+        {
+          "name": "user",
+          "isMut": true,
+          "isSigner": true
         }
       ],
-      "args": []
+      "args": [
+        {
+          "name": "gifLink",
+          "type": "string"
+        }
+      ]
     }
   ],
   "accounts": [
@@ -44,6 +54,32 @@ export type GifPortal = {
           {
             "name": "totalGifs",
             "type": "u64"
+          },
+          {
+            "name": "gifList",
+            "type": {
+              "vec": {
+                "defined": "ItemStruct"
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "types": [
+    {
+      "name": "ItemStruct",
+      "type": {
+        "kind": "struct",
+        "fields": [
+          {
+            "name": "gifLink",
+            "type": "string"
+          },
+          {
+            "name": "userAddress",
+            "type": "publicKey"
           }
         ]
       }
@@ -83,9 +119,19 @@ export const IDL: GifPortal = {
           "name": "baseAccount",
           "isMut": true,
           "isSigner": false
+        },
+        {
+          "name": "user",
+          "isMut": true,
+          "isSigner": true
         }
       ],
-      "args": []
+      "args": [
+        {
+          "name": "gifLink",
+          "type": "string"
+        }
+      ]
     }
   ],
   "accounts": [
@@ -97,6 +143,32 @@ export const IDL: GifPortal = {
           {
             "name": "totalGifs",
             "type": "u64"
+          },
+          {
+            "name": "gifList",
+            "type": {
+              "vec": {
+                "defined": "ItemStruct"
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "types": [
+    {
+      "name": "ItemStruct",
+      "type": {
+        "kind": "struct",
+        "fields": [
+          {
+            "name": "gifLink",
+            "type": "string"
+          },
+          {
+            "name": "userAddress",
+            "type": "publicKey"
           }
         ]
       }
