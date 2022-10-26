@@ -1,14 +1,14 @@
 [features]
 seeds = false
 skip-lint = false
-[programs.localnet]
-gif_portal = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+[programs.devnet]
+gif_portal = "4SMxfGZ5MgcJDmwbGUDEYeRx5xmvTMG7xCkyoBWY2UQc"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/home/kitan/.config/solana/id.json"
 
 [scripts]

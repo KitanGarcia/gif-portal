@@ -3,14 +3,15 @@ Log: .anchor/test-ledger/validator.log
 Initializing...
 Waiting for fees to stabilize 1...
 Connecting...
-Identity: GAUxJ5uXTXFTUjFfwMn6DNGReVckJNtWKLWsiMJoyttz
-Genesis Hash: FPgp3scZXqNWBzHEP1CNFfdNxm6NiPNKw6FXuawmTYrp
+Identity: EcorSSCjrvYdLDR9BKTKcu5C4uSeeJLX4DztYETT2xji
+Genesis Hash: CAETxN2RDR95KQnPehLqKPBstMXcBxBR7nnKrXNAYo6F
 Version: 1.11.10
-Shred Version: 47011
+Shred Version: 55024
 Gossip Address: 127.0.0.1:1024
 TPU Address: 127.0.0.1:1027
 JSON RPC URL: http://127.0.0.1:8899
-00:00:02 | Processed Slot: 1 | Confirmed Slot: 1 | Finalized Slot: 0 | Full Snapshot Slot: - | Incremental Snapshot Slot: - | Transactions: 0 | ◎500.000000000
-00:00:02 | Processed Slot: 1 | Confirmed Slot: 1 | Finalized Slot: 0 | Full Snapshot Slot: - | Incremental Snapshot Slot: - | Transactions: 0 | ◎500.000000000
-00:00:03 | Processed Slot: 2 | Confirmed Slot: 2 | Finalized Slot: 0 | Full Snapshot Slot: - | Incremental Snapshot Slot: - | Transactions: 2 | ◎499.999995000
-00:00:03 | Processed Slot: 3 | Confirmed Slot: 3 | Finalized Slot: 0 | Full Snapshot Slot: - | Incremental Snapshot Slot: - | Transactions: 4 | ◎499.999990000
+00:00:04 | Processed Slot: 1 | Confirmed Slot: 1 | Finalized Slot: 0 | Full Snapshot Slot: - | Incremental Snapshot Slot: - | Transactions: 0 | ◎500.000000000
+00:00:05 | Processed Slot: 1 | Confirmed Slot: 1 | Finalized Slot: 0 | Full Snapshot Slot: - | Incremental Snapshot Slot: - | Transactions: 0 | ◎500.000000000
+00:00:05 | Processed Slot: 2 | Confirmed Slot: 2 | Finalized Slot: 0 | Full Snapshot Slot: - | Incremental Snapshot Slot: - | Transactions: 1 | ◎499.999995000
+00:00:05 | Processed Slot: 3 | Confirmed Slot: 3 | Finalized Slot: 0 | Full Snapshot Slot: - | Incremental Snapshot Slot: - | Transactions: 3 | ◎499.999990000
+00:00:05 | Processed Slot: 3 | Confirmed Slot: 3 | Finalized Slot: 0 | Full Snapshot Slot: - | Incremental Snapshot Slot: - | Transactions: 3 | ◎499.999990000
